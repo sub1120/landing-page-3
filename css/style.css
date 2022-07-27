@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
 * {
     padding:0px;
     margin:0px;
@@ -37,11 +40,26 @@ body{
     right:0px;
     margin:auto 0px;
     height: fit-content;
+    font-family: 'Red Rose', cursive;
 }
 
 .nav-item{
     display: inline;
     margin:0px 15px;
+    color:#63615A
+}
+
+.nav-item.active{
+    color:#ffffff;
+}
+
+.nav-item.button > button{
+    padding:10px 20px;
+    background: transparent;
+    border:2px solid #A08F36;
+    border-radius: 10px;
+    color:#A08F36;
+    font-family: 'Red Rose', cursive;
 }
 
 .content{
@@ -51,16 +69,17 @@ body{
 .quote{
     display: inline-block;
     font-size: 30px;
-    width: 550px;
+    width: 600px;
     color:#F0EFEE;
     font-weight: bold;
+    font-family: 'Dela Gothic One', cursive;
 }
 
 .para{
     margin-left: 50px;
     display: inline-block;
     width: 450px;
-    color:#F0EFEE;
+    color:#95938F;
     font-size: 20px;
 }
 
