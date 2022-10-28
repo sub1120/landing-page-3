@@ -1,4 +1,6 @@
-# Landing Page Project #3
+# FSJS Course | HTML & CSS Project
+
+## Project #3 Law Home Page : [Deployed Link](https://inspiring-croissant-a68866.netlify.app/)
 ![Screenshot 2022-08-19 at 07-50-14 Law Home Page](https://user-images.githubusercontent.com/43786036/185528579-d9dffbf3-d0a2-451f-9e9b-a82ac03ba335.png)
 
 ## Highlights
